@@ -1,0 +1,17 @@
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\SpectacularStackConsole.exe
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\SpectacularStackConsole.deps.json
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\SpectacularStackConsole.runtimeconfig.json
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\SpectacularStackConsole.dll
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\SpectacularStackConsole.pdb
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.csproj.AssemblyReference.cache
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.AssemblyInfoInputs.cache
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.AssemblyInfo.cs
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.csproj.CoreCompileInputs.cache
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\Spectacu.ABECE1AB.Up2Date
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.dll
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\refint\SpectacularStackConsole.dll
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.pdb
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\SpectacularStackConsole.genruntimeconfig.cache
+C:\Users\ratsf002\source\repos\SpectacularStackConsole\SpectacularStackConsole\obj\Debug\net8.0\ref\SpectacularStackConsole.dll

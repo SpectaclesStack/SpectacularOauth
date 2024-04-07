@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
@@ -80,9 +80,7 @@ try
             if (!accessTokenResponseBody.StartsWith("error"))
             {
 
-                string responseString = "access_token=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&scope=read%3Auser&token_type=bearer";
-
-                string[] keyValPairs = responseString.Split('&');
+                string[] keyValPairs = accessTokenResponseBody.Split('&');
 
                 Dictionary<string, string> accessTokenDict = new Dictionary<string, string>();
 
@@ -98,16 +96,7 @@ try
                     }
                 }
 
-                if (accessTokenDict.ContainsKey("access_token"))
-                {
-                    string accessToken = accessTokenDict["access_token"];
-                    Console.WriteLine($"Access Token: {accessToken}");
-                    if (!string.IsNullOrEmpty(accessToken))
-                    {
-                        success = true;
-                        ACCESS_TOKEN = accessToken;
-                    }
-                }
+
 
                 if (accessTokenDict.ContainsKey("scope"))
                 {
@@ -119,6 +108,17 @@ try
                 {
                     string tokenType = accessTokenDict["token_type"];
                     Console.WriteLine($"Token Type: {tokenType}");
+                }
+
+                if (accessTokenDict.ContainsKey("access_token"))
+                {
+                    string accessToken = accessTokenDict["access_token"];
+                    Console.WriteLine($"Access Token: {accessToken}");
+                    if (!string.IsNullOrEmpty(accessToken))
+                    {
+                        success = true;
+                        ACCESS_TOKEN = accessToken;
+                    }
                 }
 
             }
